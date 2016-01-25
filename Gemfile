@@ -14,6 +14,7 @@ gem 'bootstrap-sass'
 gem 'simple_form'
 gem "font-awesome-rails"
 gem 'owlcarousel-rails'
+gem 'therubyracer'
 
 group :development, :test do
   gem 'erb2haml'
